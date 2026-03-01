@@ -29,8 +29,6 @@ Built using:
 The layout uses a 3D camera model where each frame is positioned in depth space and revealed progressively through scroll.
 
 
-
-
 ## Author
 
 Created by Sofija Radojevic
